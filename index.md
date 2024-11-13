@@ -5,3 +5,7 @@
 ```python
 print("Hello Big Micheal")
 ```
+
+- [X] Pet Big Micheal
+- [X] Adore Big Micheal
+- [X] Respect Big Micheal
